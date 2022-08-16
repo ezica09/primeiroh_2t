@@ -34,5 +34,22 @@ li a {
 li a:hover{
   color: blueviolet;
   background-color: white;
+  
 
+}
+#guts{
+  width: 14%;
+
+}
+.caicxaguts {
+  position: absolute;
+  top: 45px;
+  width: 90%;
+  height: 155px;
+  background: black;
+  margin: 20px;
+  border-width: 20px;
+  border-color: black;
+  border-style: solid;
+  padding: 20px;
 }
